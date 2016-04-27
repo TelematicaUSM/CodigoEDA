@@ -1,0 +1,3 @@
+.PHONY: execute
+execute: $(executable)
+	./$<
